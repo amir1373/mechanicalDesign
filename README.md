@@ -1,13 +1,21 @@
-# Mechanical Design
+# Mechanical Design Archive
 
 Mechanical design archive containing CAD and manufacturing-related files for several robotics/mechanical assemblies.
 
-## Contents
+## What This Repository Contains
 
-- `CNC/` - CNC-related mechanical design files.
+- `CNC/` - CNC-related design files.
 - `mini Arm/` - mini arm design assets.
 - `robot gripper/` - robot gripper design assets.
 
-## Notes
+## How To Use
 
-This repository is an archive of mechanical design work rather than a software package. Before using the files for manufacturing or public portfolio presentation, verify units, revisions, tolerances, material assumptions, and whether any files should remain private.
+Open the relevant design files in the CAD/CAM software used for the project. Before manufacturing, verify file revision, units, material assumptions, tolerances, and export format.
+
+## Repository Notes
+
+This is an archive of mechanical work rather than a software package. For portfolio presentation, consider adding preview renders, assembly screenshots, and a short description of each subfolder.
+
+## Privacy
+
+Review supplier models, client-specific drawings, and manufacturing details before keeping this repository public.
